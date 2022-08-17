@@ -1,6 +1,4 @@
 
 Hello, this is my first page
 
-nice
-
-my first practice
+edit on page 1 chapter 2
